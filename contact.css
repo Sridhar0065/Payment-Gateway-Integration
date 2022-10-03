@@ -85,8 +85,13 @@ hr {
   text-decoration: underline;
   text-underline-position: under;
 }
-.send {
-  color: #ff004f;
+
+#bob {
+  background-color: yellow;
+}
+
+#bob:hover {
+  background-color:#ff004f;
 }
 
 .abcd {
@@ -100,4 +105,8 @@ hr {
 .contactform {
   margin-left: 35rem;
   padding-top: 2rem;
+}
+
+h3:hover {
+  color: #ff004f;
 }

@@ -66,6 +66,9 @@ body:after {
   color: red;
   margin-left: 630px;
 }
+form {
+  margin-left: -200px;
+}
 @media (max-width: 450px){
   body {
     background-size:100rem;
