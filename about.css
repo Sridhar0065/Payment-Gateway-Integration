@@ -92,6 +92,9 @@ img {
   display: inline-block;
   border-radius: 20px;
 }
+.aa:hover {
+  border: solid 6px #ff004f;
+}
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -109,4 +112,7 @@ hr {
   color: #ff004f;
   margin-top: 13px;
   margin-bottom: -1.5rem;
+}
+h2:hover {
+  color: #ff004f;
 }
